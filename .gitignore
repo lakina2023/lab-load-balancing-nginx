@@ -1,0 +1,3 @@
+# Ne jamais publier de clé privée ni de certificat
+certs/*
+!certs/.gitkeep
